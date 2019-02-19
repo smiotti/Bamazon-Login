@@ -1,0 +1,17 @@
+/*css stuff*/
+
+input[type="number"] {
+  width: 3rem;
+}
+
+td, th {
+  padding: 10px 25px;
+}
+
+.card {
+  margin-top: 25px;
+}
+
+#messages {
+  margin-top: 10px;
+}
